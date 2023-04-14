@@ -6,4 +6,4 @@ Examples of my data analytics skills
 - For this project, I visualised the sales for the superstore shop (dataset in csv format downloaded from Data.world).
 - The visuals include 'Monthly sales', 'Sales per state', 'Profit - discount correlations', 'profit per region', and so forth.
 
-![](https://github.com/TRSomo/Thabang_Portfolio/blob/main/images/Dashboard%201.png)
+![](/images/Dashboard%201.png)
