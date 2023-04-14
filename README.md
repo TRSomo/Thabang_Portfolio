@@ -2,7 +2,7 @@
 Examples of my data analytics skills
 
 
-# [Project 1: Machine learning using K-Nearest Neighbor (KNN)](http://localhost:8888/notebooks/Documents/Academic/Data%20science/Prediction%20of%20diabetes%20using%20KNN.ipynb)
+# [Project 1: Machine learning using K-Nearest Neighbor (KNN)](https://github.com/TRSomo/Thabang_Portfolio/blob/main/images/Prediction%20of%20diabetes%20using%20KNN.html)
 - In this project, I have built a machine learning model to predict diabetis status of patients (source: Kaggle)
 - The following tasks were performed: data profiling, data cleaning, data visualization, feature correlation and machine learning
 ![](https://github.com/TRSomo/Thabang_Portfolio/blob/main/images/Prediction%20of%20diabetes%20using%20KNN.png)
