@@ -11,6 +11,7 @@ Examples of my data analytics skills
 - Herein, I have developed 3 predictive models based on Linear regression, Decision Tree and Random Forest
 - The models predict Gibbs free energy of hydride formation in low, medium and high entropy alloys
 - The data was curated and collected from different publications found on Google Scholar
+![](https://github.com/TRSomo/Thabang_Portfolio/blob/main/images/feature%20importance_vol%20incl..png)
 
 # [Project 3: Data visualization using Tableau](https://public.tableau.com/app/profile/thabang.somo/viz/SalesanalysisdescriptiveforSuperstore/Dashboard1)
 - For this project, I visualised the sales for the superstore shop (source: Data.world).
