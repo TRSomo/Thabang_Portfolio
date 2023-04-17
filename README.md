@@ -1,5 +1,5 @@
-# Thabang_Portfolio
-Examples of my data analytics skills
+# Thabang Somo
+Data analytics portfolio
 
 
 # [Project 1: Machine learning using K-Nearest Neighbor (KNN)](https://github.com/TRSomo/Thabang_Portfolio/blob/main/Prediction%20of%20diabetes%20using%20KNN.pdf)
