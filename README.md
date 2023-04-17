@@ -1,5 +1,5 @@
 # Thabang Somo
-Data analytics portfolio
+Hello, and thanks for stopping by! This repository contains examples of SQL, machine learning using Python, and Tableau-based data visualization that I have done so far. Feel free to have a look and to comment/contact for discussions.
 
 
 # [Project 1: Machine learning using K-Nearest Neighbor (KNN)](https://github.com/TRSomo/Thabang_Portfolio/blob/main/Prediction%20of%20diabetes%20using%20KNN.pdf)
