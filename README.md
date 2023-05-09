@@ -15,7 +15,7 @@ Hello, and thanks for stopping by! This repository contains examples of SQL, mac
 - The project includes creating a dummy dataset for a store using SQL
 - Multiple tables, including 'Products', 'Customers', 'Shippers', 'Orders', and 'Order_items', were created.
 
-# [Project 4: Data visualization with Excel](https://github.com/TRSomo/Thabang_Portfolio/blob/main/Superstore%20sales%20dashboard.xlsm)
+# [Project 4: Data visualization with Excel](https://github.com/TRSomo/Thabang_Portfolio/blob/main/Superstore%20sales%20dashboard_.xlsm)
 - I analysed and visualised the sales for the superstore shop using Pivot tables to create excel dashboard (source: Data.world).
 
 # [Project 5: Data visualization with Tableau](https://public.tableau.com/app/profile/thabang.somo/viz/SalesanalysisdescriptiveforSuperstore/Dashboard1)
