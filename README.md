@@ -11,7 +11,9 @@ Hello, and thanks for stopping by! This repository contains examples of SQL, mac
 - The models predict Gibbs free energy of hydride formation in low, medium and high entropy alloys
 - The data was curated and collected from different publications found on Google Scholar
 
-# [Project 3: Creating store databases with SQL](https://github.com/TRSomo/Thabang_Portfolio/blob/main/Gibbs%20free%20energy.pdf)
+# [Project 3: Creating store databases with SQL](https://github.com/TRSomo/Thabang_Portfolio/blob/main/create_store_database.sql)
+- The project includes creating a dummy dataset for a store using SQL
+- Multiple tables, including 'Products', 'Customers', 'Shippers', 'Orders', and 'Order_items', were created.
 
 # [Project 4: Data visualization with Tableau](https://public.tableau.com/app/profile/thabang.somo/viz/SalesanalysisdescriptiveforSuperstore/Dashboard1)
 - For this project, I visualised the sales for the superstore shop (source: Data.world).
