@@ -15,6 +15,10 @@ Hello, and thanks for stopping by! This repository contains examples of SQL, mac
 - The project includes creating a dummy dataset for a store using SQL
 - Multiple tables, including 'Products', 'Customers', 'Shippers', 'Orders', and 'Order_items', were created.
 
+# [Project 4: Data visualization with Excel](https://public.tableau.com/app/profile/thabang.somo/viz/SalesanalysisdescriptiveforSuperstore/Dashboard1)
+- For this project, I visualised the sales for the superstore shop (source: Data.world).
+- The visuals include 'Monthly sales', 'Sales per state', 'Profit - discount correlations', 'profit per region', and so forth.
+
 # [Project 4: Data visualization with Tableau](https://public.tableau.com/app/profile/thabang.somo/viz/SalesanalysisdescriptiveforSuperstore/Dashboard1)
 - For this project, I visualised the sales for the superstore shop (source: Data.world).
 - The visuals include 'Monthly sales', 'Sales per state', 'Profit - discount correlations', 'profit per region', and so forth.
