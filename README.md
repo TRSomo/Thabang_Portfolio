@@ -23,6 +23,6 @@ Hello, and thanks for stopping by! This repository contains examples of SQL, mac
 - The visuals include 'Monthly sales', 'Sales per state', 'Profit - discount correlations', 'profit per region', and so forth.
 ![](/images/Dashboard%201.png)
 
-# [Project 6: Sales visualization with Tableau](https://github.com/TRSomo/Thabang_Portfolio/commit/3696394170df5681dbd9f58f2b9d133f01f8532a)
+# [Project 6: Sales visualization with Tableau](https://(https://public.tableau.com/app/profile/thabang.somo/viz/salesdata_16914395570510/Dashboard1?publish=yes))
 - The project entails interactive Tableau Dashboard that is customised and organised using containers.
 - source: Data.world
