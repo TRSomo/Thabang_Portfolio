@@ -22,3 +22,7 @@ Hello, and thanks for stopping by! This repository contains examples of SQL, mac
 - For this project, I visualised the sales for the superstore shop (source: Data.world).
 - The visuals include 'Monthly sales', 'Sales per state', 'Profit - discount correlations', 'profit per region', and so forth.
 ![](/images/Dashboard%201.png)
+
+# [Project 6: Sales visualization with Tableau](https://public.tableau.com/app/profile/thabang.somo/viz/SalesanalysisdescriptiveforSuperstore/Dashboard1)
+- For this project, I visualised the sales for the superstore shop (source: Data.world).
+- The visuals include 'Monthly sales', 'Sales per state', 'Profit - discount correlations', 'profit per region', and so forth.
